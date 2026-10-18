@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sheldondebra.github.io/galahad-associates/sitemap.xml
